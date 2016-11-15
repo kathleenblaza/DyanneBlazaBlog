@@ -205,7 +205,7 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -234,7 +234,7 @@ hr.small {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  color: #777777;
+  color: #333333;
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
